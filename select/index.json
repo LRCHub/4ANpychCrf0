@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "アブナイキオク（feat. 古賀 葵）",
+  "base_artist": "鈴木　雅之",
+  "createdAt": "2026-02-22T23:35:08.633624Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "アブナイキオク",
+      "artist": "鈴木 雅之",
+      "has_synced": false,
+      "path": "select/pl_01_アブナイキオク_鈴木_雅之.txt"
+    }
+  ]
+}
